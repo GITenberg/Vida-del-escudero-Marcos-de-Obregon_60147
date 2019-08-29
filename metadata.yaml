@@ -1,5 +1,5 @@
 _repo: Vida-del-escudero-Marcos-de-Obregon_60147
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pellicer, José Luis
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '50817'
     url: http://www.gutenberg.org/2009/agents/50817
     wikipedia: https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Pellicer
+covers:
+- cover_type: archival
+  image_path: 60147-h/images/cover.jpg
 creator:
   author:
     agent_name: Espinel, Vicente
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Vicente_Espinel
     - https://es.wikipedia.org/wiki/Vicente_Espinel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60147#Vida-del-escudero-Marcos-de-Obregon
 gutenberg_issued: '2019-08-21'
 gutenberg_type: Text
 identifiers:
