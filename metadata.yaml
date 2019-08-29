@@ -1,0 +1,43 @@
+_repo: Vida-del-escudero-Marcos-de-Obregon_60147
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pellicer, José Luis
+    alias: Pellicer, Jose Luis
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '50817'
+    url: http://www.gutenberg.org/2009/agents/50817
+    wikipedia: https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Pellicer
+creator:
+  author:
+    agent_name: Espinel, Vicente
+    aliases:
+    - Espinel Gomez Adorno
+    - Espinel Gómez Adorno
+    - Gómez Adorno
+    - Adorno
+    - Martinez Espinel
+    - Martínez Espinel
+    deathdate: 1624
+    gutenberg_agent_id: '50816'
+    url: http://www.gutenberg.org/2009/agents/50816
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Vicente_Espinel
+    - https://es.wikipedia.org/wiki/Vicente_Espinel
+description: ''
+gutenberg_issued: '2019-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60147'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Classical period, 1500-1700'
+- !lcsh 'Picaresque literature, Spanish'
+- !lcc 'PQ'
+- GITenberg
+title: Vida del escudero Marcos de Obregón
+url: http://www.gutenberg.org/ebooks/60147
